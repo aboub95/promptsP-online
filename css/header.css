@@ -1,0 +1,66 @@
+.headerBoite{
+    height: 75px;
+    width: 100%;
+    background-color: rgb(230, 240, 232);
+    display: flex;
+    justify-content: center;
+}
+
+
+.navBar{
+    height: 75px;
+    width: 1120px;
+    background-color: rgb(54, 58, 54);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navboite{
+    height: 43px;
+    width: 266px;
+    background-color: rgb(105, 14, 14);
+    display: flex;
+    justify-content: space-between;
+    gap: 14px;
+}
+
+.navb1{
+    height: 43px;
+    width: 109px;
+    background-color: rgb(28, 110, 143);
+}
+
+.navb2{
+    height: 43px;
+    width: 109px;
+    background-color: rgb(41, 24, 24);
+}
+
+.navConnexion{
+    height: 41px;
+    width: 352px;
+    background-color: cornflowerblue;
+    display: flex;
+    gap: 24px;
+}
+
+.navC1{
+    height: 41px;
+    width: 105px;
+    background-color: blueviolet;
+    gap: 10px;
+}
+
+.navC2{
+    height: 41px;
+    width: 223px;
+    /* padding: 10px 20px 10px 20px; */
+    background-color: rgb(50, 48, 51);
+    gap: 10px;
+}
+
+
+
+
+
+
